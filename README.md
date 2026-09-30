@@ -367,4 +367,5 @@ MDCGS 内置了一套**通用分类分级模板**，同时也支持导入行业�
 <p align="center">
   <sub>Built with ❤️ by <a href="https://github.com/HaoY-l/mdcgs">MDCGS Team</a></sub><br/>
   <sub>如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！</sub>
+  <sub> 新建一个分支，用于修改用户功能 </sub>
 </p>
